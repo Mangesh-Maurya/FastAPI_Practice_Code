@@ -1,3 +1,5 @@
+🏥 Patient Management System – FastAPI
+
 This is a Patient Management System built using FastAPI, a modern, fast Python web framework. The application allows basic patient data handling such as creating, viewing, updating, and deleting patient records.
 
 🚀 Features
